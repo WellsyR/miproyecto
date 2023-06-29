@@ -1,0 +1,17 @@
+body {
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+
+h2 {
+    color: hsl(180, 55%, 17%);
+}
+
+a {
+    color: hsl(0, 36%, 25%);
+}
